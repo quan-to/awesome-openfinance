@@ -35,7 +35,7 @@ Uma lista com curadoria com links relacionados ao Open Finance. Pull-requests s�
 ## Provedores terceiros
 Provedores terceiros fornecem uma forma fácil de acessar dados e serviços financeiros via acesso direto às APIs das IFs.
 
-* [Quanto](https://quan.to) plataforma que lidera as transformações do mercado financeiro, facilitando a conexão de pessoas e empresas com o Open Banking e tudo que está por vir.
+* [Quanto](https://quan.to): plataforma que lidera as transformações do mercado financeiro, facilitando a conexão de pessoas e empresas com o Open Banking e tudo que está por vir.
 
 ## Contributing
 
