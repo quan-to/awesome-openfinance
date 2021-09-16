@@ -1,6 +1,6 @@
 # Awesome Open Finance
 
-Uma lista com curadoria de coisas boas para aproveitar o Open Finance no Brasil. Pull-requests são bem-vindos, desde que respeitem as regras de comunidade.
+Uma lista com curadoria com links relacionados ao Open Finance no Brasil. Pull-requests são bem-vindos, desde que respeitem as regras de comunidade.
 
 ## Open Banking (BACEN)
 - Portal do cidadão: https://openbankingbrasil.org.br
