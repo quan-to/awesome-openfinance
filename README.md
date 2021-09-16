@@ -15,5 +15,5 @@ Uma lista com curadoria com links relacionados ao Open Finance no Brasil. Pull-r
 - Manual da Estrutura de governança: https://openinsurance.susep.gov.br/wp-content/uploads/2021/07/Manual-de-Servicos-Prestados-pela-Estrutura-Responsavel-pela-Governanca.pdf
 
 ## Open Investment (CVM)
-- 
+- APIs B3 Investidor: https://developers.b3.com.br/index.php?option=com_apiportal&view=playground&apiId=db93782b-08d4-4a51-bfc8-1a5a149cb831&app=B3%20Investidor
 - 
