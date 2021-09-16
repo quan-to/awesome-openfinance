@@ -3,10 +3,10 @@
 Uma lista com curadoria com links relacionados ao Open Finance. Pull-requests são bem-vindos, desde que respeitem as regras de comunidade.
 
 ## Contents
-- [O que é Open Finance?](#o-que-e-open-finance)
-- [Open Banking Brasil (BACEN)](#open-banking-brasil-(bacen))
-- [Open Insurance Brasil (SUSEP)](#open-insurance-brasil-(susep))
-- [Open Investment Brasil (CVM)](#open-investment-brasil-(cvm))
+- [O que é Open Finance?](#o-que-é-open-finance)
+- [Open Banking Brasil (BACEN)](#open-banking-brasil-bacen)
+- [Open Insurance Brasil (SUSEP)](#open-insurance-brasil-susep)
+- [Open Investment Brasil (CVM)](#open-investment-brasil-cvm)
 - [Provedores terceiros](#provedores-terceiros)
 - [Contributing](#contributing)
 - [License](#license)
